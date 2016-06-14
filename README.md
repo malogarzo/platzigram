@@ -12,9 +12,8 @@
 	<li>$ npm start</li>
 </ul>
 
+<h4>Notes</h4>
 <ul>
-  <li>
-  	<a href="https://www.evernote.com/l/AT6ZtSnZPxdKoaIRnQF-1iWcnoYN4aRAXno">Notes</a>
-  </li>
+  <li>https://www.evernote.com/l/AT6ZtSnZPxdKoaIRnQF-1iWcnoYN4aRAXno</li>
 </ul>
 
